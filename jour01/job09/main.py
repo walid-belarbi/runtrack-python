@@ -1,4 +1,4 @@
-class Produit:
+cdclass Produit:
     def __init__(self, nom, prix_unitaire, quantite_stock):
         self.nom = nom
         self.prix_unitaire = prix_unitaire
